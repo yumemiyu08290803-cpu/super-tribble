@@ -1,0 +1,21 @@
+{
+  "name": "youtube-case-team",
+  "interface": {
+    "displayName": "事件制作チーム"
+  },
+  "plugins": [
+    {
+      "name": "youtube-case-team",
+      "source": {
+        "source": "local",
+        "path": "./plugins/youtube-case-team"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
+
