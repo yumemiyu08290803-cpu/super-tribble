@@ -5,6 +5,7 @@
   "author": {
     "name": "Local developer"
   },
+  "repository": "https://github.com/yumemiyu08290803-cpu/super-tribble",
   "skills": "./skills/",
   "interface": {
     "displayName": "\u4e8b\u4ef6\u5236\u4f5c\u30c1\u30fc\u30e0",
